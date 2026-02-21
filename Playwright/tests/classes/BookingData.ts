@@ -1,4 +1,5 @@
 import { Page } from '@playwright/test';
+import { BookingDataInterface } from '../interfaces/BookingData';
 
 /**
  * BookingPage helper encapsulates actions and selectors used

@@ -1,5 +1,6 @@
 import { test, expect } from '@playwright/test';
 import { BookingPage } from './classes/BookingData';
+import { BookingDataInterface } from './interfaces/BookingData';
 
 /**
  * Booking flow tests covering positive and negative scenarios.

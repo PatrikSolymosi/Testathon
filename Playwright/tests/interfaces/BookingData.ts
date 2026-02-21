@@ -1,4 +1,4 @@
-interface BookingDataInterface {
+export interface BookingDataInterface {
   firstName: string;
   lastName: string;
   email: string;
