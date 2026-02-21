@@ -1,5 +1,7 @@
 # Shady Meadows B&B Automation Project
 
+TESZDOKUMENTÁCIO: https://docs.google.com/document/d/1gjOw_hKuB7DroMJs8OooBnNcRgkiv_vcZoo4etlX0JI/edit?usp=sharing
+
 ##A PLAYWRIGHT MAPPÁBAN LÉVŐ TESZT A VÉGEREDMÉNY, CYPRESSBEN MÁR NEM VOLT IDŐ MEGCSINÁLNUNK
 
 Ez a projekt a Shady Meadows B&B weboldal kritikus üzleti folyamatainak (foglalás, kapcsolatfelvétel) és felhasználói felületének automatizált tesztelését valósítja meg Playwright keretrendszerben, Page Object Model (POM) tervezési minta használatával.
