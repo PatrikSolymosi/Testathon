@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "moduleResolution": "node",
+      "target": "es6",
+      "noEmit": false,
+      "lib": ["es6", "dom", "es2021"],
+      "types": ["cypress", "node", "cypress-real-events"],
+      "rootDir": "./src",
+      "outDir": "./cypress",
+      "strict": true
+    },
+    "include": ["src/**/*.ts"],
+    "exclude": ["node_modules"]
+  }
